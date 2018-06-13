@@ -1,0 +1,28 @@
+div {
+  color: #666666;
+  width: 80%;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#container {
+  width: 80%; /* ウィンドウの８０％まで */
+  max-width: 500px; /* しかし５００しかし５００pxが上限 */
+  padding: 20px;
+  margin: auto;
+  background: white;
+}
+
+span {
+  color: orange;
+}
+
+h1 {
+  color: yellow;
+  font-size: 30px;
+}
+
+body {
+  background: #b3d7db;
+}
